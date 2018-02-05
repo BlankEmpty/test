@@ -1,3 +1,5 @@
 a = 6
 b = 7
-print ("Test")
+c = 8
+d = 9
+print (a + b + c + d)
