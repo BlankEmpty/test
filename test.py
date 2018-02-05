@@ -6,3 +6,8 @@ print (a + b + c + d)
 
 
 print('I like eat vegetables.')
+
+puppy
+dog
+pig
+hippo
